@@ -6,7 +6,7 @@
 
 ## Introduction  
 
-The dataset for this investigation is the No-show appointments dataset. **It is based on informataion collected from more than 100 thousand medical appointments in brasil** and based on gathering data on wether patients showed up for appointments or not. Several variables are used to capture the appropriate data to dissect the question on weather a patient will show up for appointments or not.  
+The dataset for this investigation is the No-show appointments dataset. **It is based on informataion collected from more than 100 thousand medical appointments in Brasil** and based on gathering data on wether patients showed up for appointments or not. Several variables are used to capture the appropriate data to dissect the question on weather a patient will show up for appointments or not.  
 ##  Analysis interest
 In our attempt to understand the insight of the data, we focused on just two questions that goes thus;
 
@@ -19,4 +19,4 @@ The jupyter notebook was also saved as an html document for easier review for th
 The associated csv containing the dataset is also present.  
 A pdf describing the dataset is also prsent( It contains links to other datasets that could also be used for this project).
 
-_This was my very first project on my path in udacity's data analyst nanodegree. It aimed at introducing me to the data analysis process_ 
+_This was my very first project on my path towards udacity's data analyst nanodegree. It aimed at introducing me to the data analysis process using programmatic tools_ 
